@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BJ.console", "BJ.console\BJ.console.csproj", "{00618770-BC62-4989-A525-0A1956DFF82F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BJ.Domain", "BJ.Domain\BJ.Domain.csproj", "{EE60896E-F599-48B8-8666-FC98E79E1FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00618770-BC62-4989-A525-0A1956DFF82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00618770-BC62-4989-A525-0A1956DFF82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00618770-BC62-4989-A525-0A1956DFF82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00618770-BC62-4989-A525-0A1956DFF82F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE60896E-F599-48B8-8666-FC98E79E1FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE60896E-F599-48B8-8666-FC98E79E1FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE60896E-F599-48B8-8666-FC98E79E1FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE60896E-F599-48B8-8666-FC98E79E1FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
