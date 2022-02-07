@@ -10,6 +10,9 @@ public class Provider : Concept
     private string email;
     private bool isAprooved;
     
+    public IList<Product> Products { get; set; }
+
+    
     public Provider()
     {
         Id++;
@@ -95,8 +98,36 @@ public class Provider : Concept
     {
         Console.WriteLine("Les details de l'entité provider");
     }
-    
-    public GetProducts(string filterType, string filterValue)
+
+    public void GetProducts(string filterType, string filterValue)
+    {
+        IList<Product> products = new List<Product>();
+        foreach (var product in Products)
+        {
+            // if(filterType.ToUpper() == "DESCRIPTION" )
+            //     if(filterValue == product.Description)
+            //         products.Add(product);
+            switch (filterType.ToUpper())
+            {
+                case "DESCRIPTION":
+                    if (filterValue == product.Description) products.Add(product);
+                    break;
+                case "DATEPROD":
+                    DateTime.TryParse(filterValue, out var dateTime);
+                    if ( dateTime == product.DateProd) products.Add(product);
+                    break;
+                case "PRICE":
+                    Double.TryParse(filterValue, out var price);
+                    if (price == product.Price) products.Add(product);
+                    break;
+                default: Console.WriteLine("valeur non existant !!");
+                    break;
+                
+            }
+        }
+
+        Console.WriteLine(Products);
+    }
    
 }
 

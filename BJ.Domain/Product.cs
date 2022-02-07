@@ -12,6 +12,9 @@ public class Product : Concept
     public DateTime DateProd { get; set; }
     public Category Category { get; set; }
     
+    public IList<Provider> Providers { get; set; }
+
+    
     public void getMyType()
     {
         Console.WriteLine("This is a product");

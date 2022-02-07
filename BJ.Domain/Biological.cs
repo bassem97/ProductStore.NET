@@ -2,7 +2,7 @@
 
 public class Biological : Product
 {
-    public string? Hchich { get; set; }
+    public string? Herbs { get; set; }
     
     public void getMyType()
     {
@@ -11,7 +11,7 @@ public class Biological : Product
 
     public override string ToString()
     {
-        return $"{nameof(Hchich)}: {Hchich}";
+        return $"{nameof(Herbs)}: {Herbs}";
     }
     
     public override void GetDetails()
