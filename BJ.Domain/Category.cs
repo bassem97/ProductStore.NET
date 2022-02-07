@@ -4,16 +4,16 @@ namespace PorductStore.NET.Models;
 
 public class Category : Concept
 {
-    public Category(int? productId, string name)
+    public Category(int? categoryId, string name)
     {
-        ProductId = productId;
+        CategoryId = categoryId;
         Name = name;
     }
-    public Category(int? productId)
+    public Category(int? categoryId)
     {
-        ProductId = productId;
+        CategoryId = categoryId;
     }
-    public int? ProductId { get; set; }
+    public int? CategoryId { get; set; }
     public string Name { get; set; }
     public IList<Product> Products { get; set; }
     public override void GetDetails()

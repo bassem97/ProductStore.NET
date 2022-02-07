@@ -95,6 +95,8 @@ public class Provider : Concept
     {
         Console.WriteLine("Les details de l'entité provider");
     }
+    
+    public GetProducts(string filterType, string filterValue)
    
 }
 
