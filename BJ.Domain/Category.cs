@@ -8,18 +8,14 @@ public class Category : Concept
     {
         ProductId = productId;
         Name = name;
-        Products = new List<Product>();
     }
-
     public Category(int? productId)
     {
         ProductId = productId;
     }
-
     public int? ProductId { get; set; }
     public string Name { get; set; }
     public IList<Product> Products { get; set; }
-
     public override void GetDetails()
     {
         
