@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Collections.ObjectModel;
 using ClassLibrary1;
+using PorductStore.NET.Models;
 
 namespace AS.Console{
      public class Program{
@@ -52,17 +54,65 @@ namespace AS.Console{
             // System.Console.WriteLine(product);
 
         
-            Product product = new Product();
-            Chemical chemicalProduct = new Chemical();
-            Biological biologicalProduct = new Biological();
-            
-            product.getMyType();
-            chemicalProduct.getMyType();
-            biologicalProduct.getMyType();
-            
-            // bassem.GetDetails();
+            // Product product = new Product("description","label",15, new DateTime(2019,12,12));
+            Product product = new Product() {
+                Description = "description1",
+                Label = "label",
+                Price = 15,
+                DateProd = new DateTime(2019, 12, 12),
+                Quantity = 12
+            };
 
+            List<Product> products = new List<Product>()
+            {
+                new Product()
+                {
+                    Description = "description2",
+                    Label = "label",
+                    Price = 15,
+                    DateProd = new DateTime(2019, 12, 12),
+                    Quantity = 12
+
+                },
+                new() {
+                    Description = "description6",
+                    Label = "label3",
+                }
+            };
+
+            // int[,] tab = new int[10,10];
+            // int[,,] tab = new int[10,10,10];
+            int[][] tab = new int[3][];
+           
             
+
+            // Chemical chemicalProduct = new Chemical();
+            // Biological biologicalProduct = new Biological();
+            
+            // product.getMyType();
+            // chemicalProduct.getMyType();
+            // biologicalProduct.getMyType();
+            
+            // bassem.Products.Add(product);
+
+            // System.Console.WriteLine(product);
+            
+            foreach (var product1 in bassem.GetProducts("DATEPROD","12/12/2019"))
+            {
+                System.Console.WriteLine(product1);
+            }
+
+            bassem.Find = product =>
+            {
+                System.Console.WriteLine("this is findName" + product.Price);
+                return null;
+            };
+            bassem.Find(product);
         }
+        // public static IList<Product> FindClient(Product product)
+        // {
+        //     System.Console.WriteLine("this is findName"+product.Price);
+        //     return null;
+        // }
     }
 }

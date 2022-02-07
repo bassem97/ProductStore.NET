@@ -20,4 +20,8 @@ public class Chemical : Product
     {
         Console.WriteLine(ToString());
     }
+
+    public Chemical(string? description, string? label, double? price, DateTime dateProd) : base(description, label, price, dateProd)
+    {
+    }
 }

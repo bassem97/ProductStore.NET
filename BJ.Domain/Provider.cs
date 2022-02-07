@@ -1,5 +1,6 @@
 ﻿namespace ClassLibrary1;
 
+public delegate IList<Product> Find(Product product);
 public class Provider : Concept
 {
     public static int Id { set; get; }
@@ -9,6 +10,8 @@ public class Provider : Concept
     private string confirmPassword;
     private string email;
     private bool isAprooved;
+
+    public Find Find { set; get; }
     
     public IList<Product> Products { get; set; }
 
@@ -16,6 +19,7 @@ public class Provider : Concept
     public Provider()
     {
         Id++;
+        Products = new List<Product>();
     }
 
     public Provider(string userName, string password, string confirmPassword, string email)
@@ -25,6 +29,8 @@ public class Provider : Concept
         this.confirmPassword = confirmPassword;
         this.email = email;
         Id++;
+        Products = new List<Product>();
+
     }
     
     public string Password
@@ -99,35 +105,61 @@ public class Provider : Concept
         Console.WriteLine("Les details de l'entité provider");
     }
 
-    public void GetProducts(string filterType, string filterValue)
+    // public void GetProducts(string filterType, string filterValue)
+    // {
+    //     IList<Product> products = new List<Product>();
+    //     foreach (var product in Products)
+    //     {
+    //         // if(filterType.ToUpper() == "DESCRIPTION" )
+    //         //     if(filterValue == product.Description)
+    //         //         products.Add(product);
+    //         switch (filterType.ToUpper())
+    //         {
+    //             case "DESCRIPTION":
+    //                 if (filterValue == product.Description) products.Add(product);
+    //                 break;
+    //             case "DATEPROD":
+    //                 DateTime.TryParse(filterValue, out var dateTime);
+    //                 if ( dateTime == product.DateProd) products.Add(product);
+    //                 break;
+    //             case "PRICE":
+    //                 Double.TryParse(filterValue, out var price);
+    //                 if (price.Equals(product.Price)) products.Add(product);
+    //                 break;
+    //             default: Console.WriteLine("valeur non existant !!");
+    //                 break;
+    //             
+    //         }
+    //     }
+    //
+    //     Console.WriteLine(Products);
+    // }
+    //
+    
+    
+    public IEnumerable<Product> GetProducts(string filterType, string filterValue)
     {
-        IList<Product> products = new List<Product>();
+        // IList<Product> products = new List<Product>();
         foreach (var product in Products)
         {
-            // if(filterType.ToUpper() == "DESCRIPTION" )
-            //     if(filterValue == product.Description)
-            //         products.Add(product);
             switch (filterType.ToUpper())
             {
                 case "DESCRIPTION":
-                    if (filterValue == product.Description) products.Add(product);
-                    break;
+                    if (filterValue == product.Description) yield return product; break;
                 case "DATEPROD":
                     DateTime.TryParse(filterValue, out var dateTime);
-                    if ( dateTime == product.DateProd) products.Add(product);
-                    break;
+                    if ( dateTime == product.DateProd) yield return product; break;
                 case "PRICE":
                     Double.TryParse(filterValue, out var price);
-                    if (price == product.Price) products.Add(product);
-                    break;
+                    if (price.Equals(product.Price)) yield return product; break;
                 default: Console.WriteLine("valeur non existant !!");
                     break;
                 
             }
         }
 
-        Console.WriteLine(Products);
+        // Console.WriteLine(Products);
     }
-   
+
 }
 

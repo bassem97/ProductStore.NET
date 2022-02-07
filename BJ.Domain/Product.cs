@@ -14,7 +14,20 @@ public class Product : Concept
     
     public IList<Provider> Providers { get; set; }
 
-    
+    public Product(string? description, string? label, double? price, DateTime dateProd)
+    {
+        Description = description;
+        Label = label;
+        Price = price;
+        DateProd = dateProd;
+        ProductId++;
+
+    }
+
+    public Product()
+    {
+    }
+
     public void getMyType()
     {
         Console.WriteLine("This is a product");
@@ -27,6 +40,7 @@ public class Product : Concept
 
     public override string ToString()
     {
-        return base.ToString();
+        return $"{nameof(ProductId)}: {ProductId} ,  {nameof(Description)}: {Description}, {nameof(Label)}: {Label},{nameof(DateProd)}: {DateProd} ";
+
     }
 }
