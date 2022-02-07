@@ -14,11 +14,15 @@ public class Category : Concept
     public Category(int? productId)
     {
         ProductId = productId;
-        Products = new List<Product>();
     }
 
     public int? ProductId { get; set; }
     public string Name { get; set; }
-    public List<Product> Products { get; set; }
+    public IList<Product> Products { get; set; }
 
+    public override void GetDetails()
+    {
+        
+        throw new NotImplementedException();
+    }
 }

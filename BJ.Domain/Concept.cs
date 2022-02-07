@@ -2,9 +2,5 @@
 
 public abstract class Concept
 {
-    public virtual void GetDetails()
-    {
-        Console.WriteLine("Les details de l'entité");
-    }
-        
+    public abstract void GetDetails();
 }

@@ -60,7 +60,7 @@ namespace AS.Console{
             chemicalProduct.getMyType();
             biologicalProduct.getMyType();
             
-            bassem.GetDetails();
+            // bassem.GetDetails();
 
             
         }

@@ -15,4 +15,9 @@ public class Chemical : Product
     {
         return $"{nameof(City)}: {City}, {nameof(StreetAddress)}: {StreetAddress}";
     }
+    
+    public override void GetDetails()
+    {
+        Console.WriteLine(ToString());
+    }
 }

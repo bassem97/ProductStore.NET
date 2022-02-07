@@ -16,4 +16,14 @@ public class Product : Concept
     {
         Console.WriteLine("This is a product");
     }
+
+    public override void GetDetails()
+    {
+        Console.WriteLine("Description"+Description+" Product ID : "+ProductId);
+    }
+
+    public override string ToString()
+    {
+        return base.ToString();
+    }
 }

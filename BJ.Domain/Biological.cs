@@ -13,4 +13,9 @@ public class Biological : Product
     {
         return $"{nameof(Hchich)}: {Hchich}";
     }
+    
+    public override void GetDetails()
+    {
+        Console.WriteLine(ToString());
+    }
 }
