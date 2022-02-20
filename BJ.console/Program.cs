@@ -81,33 +81,11 @@ namespace AS.Console{
                     Name = "Laitiers"
                 }
             };
+
+            List<Product> products = DataTest.Products;
+            List<Provider> providers = DataTest.Providers;
+            List<Category> categories = DataTest.Categories;
             
-
-            List<Product> products = new List<Product>()
-            {
-                new Product()
-                {
-                    Description = "description2",
-                    Label = "label2",
-                    Price = 15,
-                    DateProd = new DateTime(2019, 12, 12),
-                    Quantity = 12,
-                    Category = new Category()
-                    {
-                        Name = "Fruits"
-                    }
-
-                },
-                new() {
-                    Description = "description6",
-                    Label = "label3",
-                    Category = new Category()
-                    {
-                        Name = "Laitiers"
-                    }
-                }
-            };
-            products.Add(product);
 
             // int[,] tab = new int[10,10];
             // int[,,] tab = new int[10,10,10];
@@ -137,28 +115,28 @@ namespace AS.Console{
                 return null;
             };
             bassem.Find(product);
-            ProductManage productManage = new ProductManage();
+            ProductManage productManager = new ProductManage();
             
             // 14/02/2022 Session
             
 
-            productManage.Products = products;
-            productManage.FindProduct = FindProductFN;
-            productManage.ScanProducts = ScanProductCat;
+            productManager.Products = products;
+            productManager.FindProduct = FindProductFN;
+            productManager.ScanProducts = ScanProductCat;
             System.Console.WriteLine("Test Methode FindProduct");
             
             /// Simple list parameter
-            productManage.FindProduct("l", products)
+            productManager.FindProduct("AC", products)
                 .ToList()
                 .ForEach(product => System.Console.WriteLine(product.Label));
             
             // Passing funciton body to parameter (anonyme methode)
-            productManage.FindProductByFirstChar("l",FindProductFN)
+            productManager.FindProductByFirstChar("l",FindProductFN)
                 .ToList()
                 .ForEach(product => System.Console.WriteLine(product.Label));
            
             // Passing lambda-expression  to parameter
-            productManage.FindProductByFirstChar("l", ((letter, list) =>
+            productManager.FindProductByFirstChar("l", ((letter, list) =>
                 {
                     return list.Where(product => product.Label.StartsWith(letter))
                         .ToList();
@@ -168,19 +146,36 @@ namespace AS.Console{
             
             // Passing funciton body to parameter (anonyme methode)
             System.Console.WriteLine("ScanProducts test methode");
-            productManage.ScanProductByCat("Fruits", ScanProductCat)
+            productManager.ScanProductByCat("Fruit", ScanProductCat)
                 .ToList()
                 .ForEach(product => System.Console.WriteLine(product.Label));
             
             System.Console.WriteLine("UpperName test methode");
-            productManage.UpperName();
+            productManager.UpperName();
             products.ToList().ForEach(produ => System.Console.WriteLine(produ.Label));
             
             System.Console.WriteLine("InCategory test methode");
-            System.Console.WriteLine(productManage.InCategory("Laitiesrs"));
+            System.Console.WriteLine(productManager.InCategory("Alimentaire"));
             
             // question 13 
+            ProviderManage providerManager = new ProviderManage();
+            providerManager.Providers = providers;
             
+            // Get provider by name
+            providerManager.GetProviderByName("SUDMEDICAL").ToList()
+                .ForEach(provider => System.Console.WriteLine(provider));
+            
+            // Get first 5  providers by name
+            providerManager.GetFirst5ProviderByName("SUDMEDICAL").ToList()
+                .ForEach(provider => System.Console.WriteLine(provider));
+            
+            // GEt provider by ID
+            System.Console.WriteLine(providerManager.GetProviderById(4));
+            
+            
+            // question 14
+            
+
 
 
         }

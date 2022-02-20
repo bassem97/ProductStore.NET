@@ -106,11 +106,11 @@ public class DataTest
         {
             get
             {
-                Provider sater = new Provider() {  UserName = "SATER" };
-                Provider sudMedical = new Provider() { UserName = "SUDMEDICAL" };
-                Provider palliserSa = new Provider() { UserName = "Palliser SA" };
-                Provider prov4 = new Provider() {  UserName = "PROV4" };
-                Provider prov5 = new Provider() {  UserName = "PROV5" , Email= "PROV5@esprit.tn"};
+                Provider sater = new Provider() { Id = 1, UserName = "SATER" };
+                Provider sudMedical = new Provider() { Id = 2, UserName = "SUDMEDICAL" };
+                Provider palliserSa = new Provider() { Id = 3, UserName = "Palliser SA" };
+                Provider prov4 = new Provider() { Id = 4, UserName = "PROV4" };
+                Provider prov5 = new Provider() { Id = 5, UserName = "PROV5" , Email= "PROV5@esprit.tn"};
                 return new List<Provider>() { sater, sudMedical, palliserSa, prov4, prov5 };
             }
         }

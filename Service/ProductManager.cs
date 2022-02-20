@@ -30,6 +30,13 @@ public class ProductManage
 
     }
 
+    public IList<Product> Get5Chemical(double price)
+    {
+        Products.Where(product =>
+        {
+            product.Price > price && product.typeof()
+        })
+    }
 
    
     

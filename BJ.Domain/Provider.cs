@@ -3,7 +3,7 @@
 public delegate IList<Product> Find(Product product);
 public class Provider : Concept
 {
-    public static int Id { set; get; }
+    public  int Id { set; get; }
     public string UserName { get; set; }
     private string password;
     
