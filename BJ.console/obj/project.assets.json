@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/BJ.Domain.dll": {}
         }
+      },
+      "Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BJ.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,17 @@
       "type": "project",
       "path": "../BJ.Domain/BJ.Domain.csproj",
       "msbuildProject": "../BJ.Domain/BJ.Domain.csproj"
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "path": "../Service/Service.csproj",
+      "msbuildProject": "../Service/Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "BJ.Domain >= 1.0.0"
+      "BJ.Domain >= 1.0.0",
+      "Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,6 +72,9 @@
           "projectReferences": {
             "D:\\Desktop\\4TWIN\\2 SEM\\.NET\\WebApplication1\\ConsoleApp1\\BJ.Domain\\BJ.Domain.csproj": {
               "projectPath": "D:\\Desktop\\4TWIN\\2 SEM\\.NET\\WebApplication1\\ConsoleApp1\\BJ.Domain\\BJ.Domain.csproj"
+            },
+            "D:\\Desktop\\4TWIN\\2 SEM\\.NET\\WebApplication1\\ConsoleApp1\\Service\\Service.csproj": {
+              "projectPath": "D:\\Desktop\\4TWIN\\2 SEM\\.NET\\WebApplication1\\ConsoleApp1\\Service\\Service.csproj"
             }
           }
         }

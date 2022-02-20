@@ -16,3 +16,5 @@ D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.console\obj\Debug\net
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.console\obj\Debug\net6.0\ref\BJ.console.dll
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.console\obj\Debug\net6.0\BJ.console.pdb
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.console\obj\Debug\net6.0\BJ.console.genruntimeconfig.cache
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.console\bin\Debug\net6.0\Service.dll
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.console\bin\Debug\net6.0\Service.pdb

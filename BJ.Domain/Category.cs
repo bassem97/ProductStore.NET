@@ -4,6 +4,10 @@ namespace PorductStore.NET.Models;
 
 public class Category : Concept
 {
+    public Category()
+    {
+    }
+
     public Category(int? categoryId, string name)
     {
         CategoryId = categoryId;

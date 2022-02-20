@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "BJ.console/1.0.0": {
         "dependencies": {
-          "BJ.Domain": "1.0.0"
+          "BJ.Domain": "1.0.0",
+          "Service": "1.0.0"
         },
         "runtime": {
           "BJ.console.dll": {}
@@ -17,6 +18,14 @@
       "BJ.Domain/1.0.0": {
         "runtime": {
           "BJ.Domain.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "dependencies": {
+          "BJ.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Service.dll": {}
         }
       }
     }
@@ -28,6 +37,11 @@
       "sha512": ""
     },
     "BJ.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

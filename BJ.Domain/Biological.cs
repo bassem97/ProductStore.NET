@@ -19,6 +19,10 @@ public class Biological : Product
         Console.WriteLine(ToString());
     }
 
+    public Biological()
+    {
+    }
+
     public Biological(string? description, string? label, double? price, DateTime dateProd) : base(description, label, price, dateProd)
     {
     }

@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BJ.console", "BJ.console\BJ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BJ.Domain", "BJ.Domain\BJ.Domain.csproj", "{EE60896E-F599-48B8-8666-FC98E79E1FAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{7BFA4B23-8DB7-49D0-8B3A-594CB89BC418}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{EE60896E-F599-48B8-8666-FC98E79E1FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE60896E-F599-48B8-8666-FC98E79E1FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE60896E-F599-48B8-8666-FC98E79E1FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BFA4B23-8DB7-49D0-8B3A-594CB89BC418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFA4B23-8DB7-49D0-8B3A-594CB89BC418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFA4B23-8DB7-49D0-8B3A-594CB89BC418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFA4B23-8DB7-49D0-8B3A-594CB89BC418}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

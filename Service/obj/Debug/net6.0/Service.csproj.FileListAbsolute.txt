@@ -1,0 +1,15 @@
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\Service\bin\Debug\net6.0\Service.deps.json
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\Service\bin\Debug\net6.0\Service.dll
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\Service\bin\Debug\net6.0\ref\Service.dll
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\Service\bin\Debug\net6.0\Service.pdb
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\Service\bin\Debug\net6.0\BJ.Domain.dll
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\Service\bin\Debug\net6.0\BJ.Domain.pdb
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\Service\obj\Debug\net6.0\Service.dll
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\Service\obj\Debug\net6.0\ref\Service.dll
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\Service\obj\Debug\net6.0\Service.pdb
