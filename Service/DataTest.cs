@@ -5,11 +5,11 @@ namespace Service;
 
 public class DataTest
 {
-    public static List<Product> Products
+    public static List<Product?> Products
         {
             get
             {
-                Product acideCitrique = new Chemical()
+                Product? acideCitrique = new Chemical()
                 {
                     DateProd = new DateTime(2000, 12, 12),
                     Label = "ACIDE CITRIQUE",
@@ -20,7 +20,7 @@ public class DataTest
                     ProductId = 1,
                      City = "Sousse"
                 };
-                Product cacaoNaturelle = new Chemical()
+                Product? cacaoNaturelle = new Chemical()
                 {
                     DateProd = new DateTime(2000, 12, 12),
                     Label = "POUDRE DE CACAO NATURELLE",
@@ -31,7 +31,7 @@ public class DataTest
                     ProductId = 2,
                       City = "Sfax"
                 };
-                Product cacaoAlcalinisee = new Chemical()
+                Product? cacaoAlcalinisee = new Chemical()
                 {
                     DateProd = new DateTime(2000, 12, 12),
                     Label = "POUDRE DE CACAO ALCALINISÉE",
@@ -53,7 +53,7 @@ public class DataTest
                     ProductId = 4,
                       City = "Tunis"
                 };
-                Product amidon = new Chemical()
+                Product? amidon = new Chemical()
                 {
                     DateProd = new DateTime(2000, 12, 12),
                     Label = "AMIDON DE MAÏS",
@@ -62,9 +62,9 @@ public class DataTest
                     Price = 70,
                     Quantity = 30,
                     ProductId = 5,
-                    // City = "Tunis"
+                    City = "Tunis"
                 };
-                Product blackberry = new Biological()
+                Product? blackberry = new Biological()
                 {
                     DateProd = new DateTime(2000, 12, 12),
                     Label = "Blackberry",
@@ -75,7 +75,7 @@ public class DataTest
                     Quantity = 0
 
                 };
-                Product apple = new Biological()
+                Product? apple = new Biological()
                 {
                     DateProd = new DateTime(2000, 12, 12),
                     Description = "",
@@ -87,7 +87,7 @@ public class DataTest
 
                 };
 
-                return new List<Product>() { dioxyde, amidon, cacaoAlcalinisee, blackberry, apple, acideCitrique, cacaoNaturelle };
+                return new List<Product?>() { dioxyde, amidon, cacaoAlcalinisee, blackberry, apple, acideCitrique, cacaoNaturelle };
             }
         }
 

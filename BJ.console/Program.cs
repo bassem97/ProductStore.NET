@@ -82,7 +82,7 @@ namespace AS.Console{
                 }
             };
 
-            List<Product> products = DataTest.Products;
+            List<Product?> products = DataTest.Products;
             List<Provider> providers = DataTest.Providers;
             List<Category> categories = DataTest.Categories;
             
@@ -174,12 +174,26 @@ namespace AS.Console{
 
 
             // question 14
+            //a
             productManager.Get5Chemical(50).ToList()
                 .ForEach(product => System.Console.WriteLine(product));
+            //b
             productManager.GetProductPrice(50).ToList()
                 .ForEach(product => System.Console.WriteLine(product));
+            //c
             System.Console.WriteLine(productManager.GetAveragePrice());
-
+            //d
+            System.Console.WriteLine(productManager.GetMaxPrice());
+            //e
+            System.Console.WriteLine(productManager.GetCountProduct("tunis"));
+            //f
+            productManager.GetChemicalCity().ToList()
+                .ForEach(product => System.Console.WriteLine(product));
+            // g
+            System.Console.WriteLine("groupe by city");
+            productManager.GetChemicalGroupByCity().ToList()
+                .ForEach(products => products.ForEach(product => System.Console.WriteLine(product)));
+            
 
         }
         
