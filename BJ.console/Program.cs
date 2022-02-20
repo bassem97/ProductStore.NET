@@ -171,11 +171,14 @@ namespace AS.Console{
             
             // GEt provider by ID
             System.Console.WriteLine(providerManager.GetProviderById(4));
-            
-            
-            // question 14
-            
 
+
+            // question 14
+            productManager.Get5Chemical(50).ToList()
+                .ForEach(product => System.Console.WriteLine(product));
+            productManager.GetProductPrice(50).ToList()
+                .ForEach(product => System.Console.WriteLine(product));
+            System.Console.WriteLine(productManager.GetAveragePrice());
 
 
         }

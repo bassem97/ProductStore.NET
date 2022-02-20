@@ -32,10 +32,22 @@ public class ProductManage
 
     public IList<Product> Get5Chemical(double price)
     {
-        Products.Where(product =>
-        {
-            product.Price > price && product.typeof()
-        })
+        return Products
+            .Where(product => product.Price > price & product.GetType() == typeof(Chemical))
+            .Take(5).ToList();
+    }
+    
+    public IList<Product> GetProductPrice(double price)
+    {
+        return Products.Where(product => product.Price > price)
+            .Skip(5).ToList();
+    }
+    
+    public double GetAveragePrice()
+    {
+        return Products
+            .Select(product => product.Price)
+            .Average()!.Value;
     }
 
    
