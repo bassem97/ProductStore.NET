@@ -16,12 +16,11 @@ public class ProviderManage
             .Where(provider => provider.UserName.Contains(name))
             .ToList();
     }
-    public IList<Provider> GetFirst5ProviderByName(string name)
+    public Provider GetFirstProviderByName(string name)
     {
         return Providers
-            .Where(provider => provider.UserName.Contains(name))
-            .Take(5)
-            .ToList();
+            .Where(provider => provider.UserName.StartsWith(name))
+            .First();
     }
     
     public Provider GetProviderById(int id)

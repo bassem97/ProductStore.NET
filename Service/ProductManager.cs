@@ -71,14 +71,17 @@ public class ProductManage
             .ToList();
     }
     
-    public List<List<Product?>> GetChemicalGroupByCity()
+    public List<List<Chemical>> GetChemicalGroupByCity()
     {
         return Products
-            .Where(product => product.GetType() == typeof(Chemical))
-            .OrderBy(product => ((Chemical) product).City)
-            .GroupBy((product => ((Chemical) product).City))
+            .OfType<Chemical>()
+            .OrderBy(product => product.City)
+            .GroupBy(product => product.City)
             .Select(groupe => groupe.ToList())
             .ToList();
+
+        // .Select(groupe => groupe.ToList())
+        // .ToList();
 
     }
 

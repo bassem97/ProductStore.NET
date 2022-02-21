@@ -165,9 +165,10 @@ namespace AS.Console{
             providerManager.GetProviderByName("SUDMEDICAL").ToList()
                 .ForEach(provider => System.Console.WriteLine(provider));
             
-            // Get first 5  providers by name
-            providerManager.GetFirst5ProviderByName("SUDMEDICAL").ToList()
-                .ForEach(provider => System.Console.WriteLine(provider));
+            // Get first   provider by name
+            System.Console.WriteLine(providerManager.GetFirstProviderByName("SUDMEDICAL"));
+           
+             
             
             // GEt provider by ID
             System.Console.WriteLine(providerManager.GetProviderById(4));
@@ -192,7 +193,7 @@ namespace AS.Console{
             // g
             System.Console.WriteLine("groupe by city");
             productManager.GetChemicalGroupByCity().ToList()
-                .ForEach(products => products.ForEach(product => System.Console.WriteLine(product)));
+                .ForEach(products => System.Console.WriteLine(product));
             
 
         }
