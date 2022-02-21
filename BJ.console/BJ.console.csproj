@@ -9,8 +9,9 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\BJ.Data\BJ.Data.csproj" />
       <ProjectReference Include="..\BJ.Domain\BJ.Domain.csproj" />
-      <ProjectReference Include="..\Service\Service.csproj" />
+      <ProjectReference Include="..\BJ.Service\BJ.Service.csproj" />
     </ItemGroup>
 
 </Project>

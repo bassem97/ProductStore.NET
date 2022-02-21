@@ -1,0 +1,15 @@
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\bin\Debug\net6.0\BJ.Data.deps.json
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\bin\Debug\net6.0\BJ.Data.dll
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\bin\Debug\net6.0\ref\BJ.Data.dll
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\bin\Debug\net6.0\BJ.Data.pdb
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\bin\Debug\net6.0\BJ.Domain.dll
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\bin\Debug\net6.0\BJ.Domain.pdb
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\obj\Debug\net6.0\BJ.Data.csproj.AssemblyReference.cache
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\obj\Debug\net6.0\BJ.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\obj\Debug\net6.0\BJ.Data.AssemblyInfoInputs.cache
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\obj\Debug\net6.0\BJ.Data.AssemblyInfo.cs
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\obj\Debug\net6.0\BJ.Data.csproj.CoreCompileInputs.cache
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\obj\Debug\net6.0\BJ.Data.csproj.CopyComplete
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\obj\Debug\net6.0\BJ.Data.dll
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\obj\Debug\net6.0\ref\BJ.Data.dll
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\obj\Debug\net6.0\BJ.Data.pdb

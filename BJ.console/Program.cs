@@ -3,8 +3,8 @@
 using System.Collections.ObjectModel;
 using ClassLibrary1;
 using PorductStore.NET.Models;
-using Service;
-
+using BJ.Service;
+using Data;
 
 
 namespace AS.Console{
@@ -194,7 +194,10 @@ namespace AS.Console{
             System.Console.WriteLine("groupe by city");
             productManager.GetChemicalGroupByCity().ToList()
                 .ForEach(products => System.Console.WriteLine(product));
-            
+
+            Context context = new Context();
+            System.Console.ReadKey();
+
 
         }
         
