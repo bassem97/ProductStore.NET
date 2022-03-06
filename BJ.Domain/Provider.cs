@@ -1,17 +1,22 @@
-﻿namespace ClassLibrary1;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace ClassLibrary1;
 
 public delegate IList<Product> Find(Product product);
 public class Provider : Concept
 {
+    [Key]
     public  int Id { set; get; }
     public string UserName { get; set; }
+   
     private string password;
-    
+
     private string confirmPassword;
     private string email;
     private bool isAprooved;
 
-    public Find Find { set; get; }
+    // public Find Find { set; get; }
     
     public IList<Product> Products { get; set; }
 
@@ -32,7 +37,9 @@ public class Provider : Concept
         Products = new List<Product>();
 
     }
-    
+    [DataType(DataType.Password),
+     MinLength(8),
+     Required]
     public string Password
     {
         get => password;
@@ -49,6 +56,7 @@ public class Provider : Concept
         }
     }
 
+    [Compare("Password"), NotMapped]
     public string ConfirmPassword
     {
         get => confirmPassword;

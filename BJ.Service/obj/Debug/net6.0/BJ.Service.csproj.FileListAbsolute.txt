@@ -1,6 +1,5 @@
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Service\bin\Debug\net6.0\BJ.Service.deps.json
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Service\bin\Debug\net6.0\BJ.Service.dll
-D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Service\bin\Debug\net6.0\ref\BJ.Service.dll
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Service\bin\Debug\net6.0\BJ.Service.pdb
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Service\bin\Debug\net6.0\BJ.Domain.dll
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Service\bin\Debug\net6.0\BJ.Domain.pdb
@@ -13,3 +12,4 @@ D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Service\obj\Debug\net
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Service\obj\Debug\net6.0\BJ.Service.dll
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Service\obj\Debug\net6.0\ref\BJ.Service.dll
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Service\obj\Debug\net6.0\BJ.Service.pdb
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Service\obj\Debug\net6.0\refint\BJ.Service.dll

@@ -109,12 +109,12 @@ namespace AS.Console{
                 System.Console.WriteLine(product1);
             }
 
-            bassem.Find = product =>
-            {
-                System.Console.WriteLine("this is findName" + product.Price);
-                return null;
-            };
-            bassem.Find(product);
+            // bassem.Find = product =>
+            // {
+            //     System.Console.WriteLine("this is findName" + product.Price);
+            //     return null;
+            // };
+            // bassem.Find(product);
             ProductManage productManager = new ProductManage();
             
             // 14/02/2022 Session
@@ -195,7 +195,9 @@ namespace AS.Console{
             productManager.GetChemicalGroupByCity().ToList()
                 .ForEach(products => System.Console.WriteLine(product));
 
-            Context context = new Context();
+            DbContext context = new DbContext();
+            // context.Database.EnsureCreated();
+            context.SaveChanges();
             System.Console.ReadKey();
 
 

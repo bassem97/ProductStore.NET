@@ -1,6 +1,5 @@
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Domain\bin\Debug\net6.0\BJ.Domain.deps.json
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Domain\bin\Debug\net6.0\BJ.Domain.dll
-D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Domain\bin\Debug\net6.0\ref\BJ.Domain.dll
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Domain\bin\Debug\net6.0\BJ.Domain.pdb
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Domain\obj\Debug\net6.0\BJ.Domain.csproj.AssemblyReference.cache
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Domain\obj\Debug\net6.0\BJ.Domain.GeneratedMSBuildEditorConfig.editorconfig
@@ -10,3 +9,4 @@ D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Domain\obj\Debug\net6
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Domain\obj\Debug\net6.0\BJ.Domain.dll
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Domain\obj\Debug\net6.0\ref\BJ.Domain.dll
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Domain\obj\Debug\net6.0\BJ.Domain.pdb
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Domain\obj\Debug\net6.0\refint\BJ.Domain.dll

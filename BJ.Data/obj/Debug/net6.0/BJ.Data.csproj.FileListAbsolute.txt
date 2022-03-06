@@ -1,6 +1,5 @@
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\bin\Debug\net6.0\BJ.Data.deps.json
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\bin\Debug\net6.0\BJ.Data.dll
-D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\bin\Debug\net6.0\ref\BJ.Data.dll
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\bin\Debug\net6.0\BJ.Data.pdb
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\bin\Debug\net6.0\BJ.Domain.dll
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\bin\Debug\net6.0\BJ.Domain.pdb
@@ -13,3 +12,6 @@ D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\obj\Debug\net6.0
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\obj\Debug\net6.0\BJ.Data.dll
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\obj\Debug\net6.0\ref\BJ.Data.dll
 D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\obj\Debug\net6.0\BJ.Data.pdb
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\bin\Debug\net6.0\BJ.Data.runtimeconfig.json
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\obj\Debug\net6.0\BJ.Data.genruntimeconfig.cache
+D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.Data\obj\Debug\net6.0\refint\BJ.Data.dll

@@ -7,6 +7,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BJ.Service", "BJ.Service\BJ.Service.csproj", "{7BFA4B23-8DB7-49D0-8B3A-594CB89BC418}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BJ.Data", "BJ.Data\BJ.Data.csproj", "{878804EB-A89B-4241-8DD0-A00AFB6B0E89}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7BFA4B23-8DB7-49D0-8B3A-594CB89BC418} = {7BFA4B23-8DB7-49D0-8B3A-594CB89BC418}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,4 +1,9 @@
-﻿namespace ClassLibrary1;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace ClassLibrary1;
+
+// [Table("Biological")]
+[Table("Product")]
 
 public class Biological : Product
 {

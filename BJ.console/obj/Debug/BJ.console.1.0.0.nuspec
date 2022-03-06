@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BJ.console</id>
+    <version>1.0.0</version>
+    <authors>BJ.console</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="BJ.Data" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="BJ.Domain" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="BJ.Service" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.console\bin\Debug\net6.0\BJ.console.runtimeconfig.json" target="lib\net6.0\BJ.console.runtimeconfig.json" />
+    <file src="D:\Desktop\4TWIN\2 SEM\.NET\WebApplication1\ConsoleApp1\BJ.console\bin\Debug\net6.0\BJ.console.dll" target="lib\net6.0\BJ.console.dll" />
+  </files>
+</package>
