@@ -1527,6 +1527,9 @@
       "BJ.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": "6.0.2"
+        },
         "compile": {
           "bin/placeholder/BJ.Domain.dll": {}
         },

@@ -53,7 +53,7 @@ namespace AS.Console{
         }
         public static IList<Product> ScanProductCat(string cat, List<Product> list)
         {
-            return list.Where(product => product.Category.Name == cat)
+            return list.Where(product => product.category.Name == cat)
                 .ToList();
         }
 
@@ -76,7 +76,7 @@ namespace AS.Console{
                 Price = 15,
                 DateProd = new DateTime(2019, 12, 12),
                 Quantity = 12,
-                Category = new Category()
+                category = new Category()
                 {
                     Name = "Laitiers"
                 }

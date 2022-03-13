@@ -7,58 +7,48 @@ namespace ClassLibrary1;
 [Table("Product")]
 public class Product : Concept
 {
-    public int? ProductId { get; set; }
-    
+
+    public int ProductId{// set{ id = value; } get{ return id; }
+        set;
+        get;}
+    [Display(Name ="Production Date")
+     ,DataType(DataType.DateTime)]
+    public DateTime DateProd {set; get;}
     [DataType(DataType.MultilineText)]
-    public string? Description { get; set; }
-    
+    public string Description {set; get;}
+
     [Required(ErrorMessage ="Label is required")]
     [MaxLength(50, ErrorMessage ="Maxlength 50")] 
     [StringLength(25, ErrorMessage = "Maxlength 25")] 
-    public string?  Label { get; set; }
-    
+    public string Label {set; get;}
     [DataType(DataType.Currency)]
     [Range(0,int.MaxValue)]
-    public double? Price { get; set; }
-    public int? Quantity { get; set; }
-    
-    [Display(Name ="Production Date"),DataType(DataType.DateTime)]
-    public DateTime DateProd { get; set; }
-    public Category Category { get; set; }
-    
-    public int? CategoryId { get; set; }
-    
+    public double Price {set; get;}
+    public int Quantity {set; get;}
+
     public string Image { get; set; }
-    
-    public IList<Provider> Providers { get; set; }
 
-    public Product(string? description, string? label, double? price, DateTime dateProd)
-    {
-        Description = description;
-        Label = label;
-        Price = price;
-        DateProd = dateProd;
-        ProductId++;
-
-    }
-
-    public Product()
-    {
-    }
-
-    public void getMyType()
-    {
-        Console.WriteLine("This is a product");
-    }
-
-    public override void GetDetails()
-    {
-        Console.WriteLine("Description"+Description+" Product ID : "+ProductId);
-    }
+    [ForeignKey("CategoryId")]
+    public virtual Category category { set; get; }
+    public int? CategoryId { get; set; }
+    public IList<Provider> providers { set; get; }
+    public IList<Bill> Bills { set; get; }
+    public IList<Client> Clients { set; get; }
 
     public override string ToString()
     {
-        return $"{nameof(ProductId)}: {ProductId} ,  {nameof(Description)}: {Description}, {nameof(Label)}: {Label},{nameof(DateProd)}: {DateProd} ";
+        return $"label= {Label}, description= {Description}, price= {Price}";
+    }
+
+
+
+    public void GetMyType()
+    {
+        Console.WriteLine("this is a product");
+    }
+    public override void GetDetails() // if sealed child classes can't inherit
+    {
+        System.Console.WriteLine("description: " + Description);
 
     }
 }

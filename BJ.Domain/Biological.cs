@@ -28,7 +28,7 @@ public class Biological : Product
     {
     }
 
-    public Biological(string? description, string? label, double? price, DateTime dateProd) : base(description, label, price, dateProd)
+    public Biological(string? description, string? label, double? price, DateTime dateProd) 
     {
     }
 }

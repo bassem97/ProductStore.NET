@@ -15,7 +15,7 @@ namespace Data.Configurations
             builder.HasKey(p => p.Id);
             builder.Ignore(p => p.ConfirmPassword);
             builder.ToTable("Provider");
-            builder.HasMany(p => p.Products).WithMany(p => p.Providers).UsingEntity(p => p.ToTable("Providings"));
+            builder.HasMany(p => p.Products).WithMany(p => p.providers).UsingEntity(p => p.ToTable("Providings"));
 
         }
     }

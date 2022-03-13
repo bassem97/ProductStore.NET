@@ -15,12 +15,7 @@ namespace Data.Configurations
             //builder.ToTable("Category");
             builder.HasKey(c => c.CategoryId);
             builder.Property((c) => c.Name).HasMaxLength(50).IsRequired();
-            builder.HasMany<Product>(c=>c.Products).WithOne(p=>p.Category).HasForeignKey(p=>p.CategoryId);
-           
-
-
-
-
+            builder.HasMany<Product>(c=>c.Products).WithOne(p=>p.category).HasForeignKey(p=>p.CategoryId);
         }
     }
 }

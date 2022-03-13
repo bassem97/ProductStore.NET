@@ -17,7 +17,7 @@ public static class ProductExtension
     public static bool InCategory(this ProductManage productManager, string category)
     {
         return productManager.Products.ToList()
-            .Where(product => product.Category.Name.ToUpper().Equals(category.ToUpper()))
+            .Where(product => product.category.Name.ToUpper().Equals(category.ToUpper()))
             .ToList().Count != 0;
     }
 }

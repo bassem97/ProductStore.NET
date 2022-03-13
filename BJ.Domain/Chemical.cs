@@ -30,7 +30,7 @@ public class Chemical : Product
     {
     }
 
-    public Chemical(string? description, string? label, double? price, DateTime dateProd) : base(description, label, price, dateProd)
+    public Chemical(string? description, string? label, double? price, DateTime dateProd) 
     {
     }
 }

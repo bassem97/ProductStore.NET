@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vUepNvTkAFF7rdS3SEvJnwDGxW9fOMznSFBKrZrL6H6CqUKfRLd1SJq417NpnLHm5mmvItJRAz7n8TqwCRBZ3A==",
+  "dgSpecHash": "24wHp55k8y+8l7HeP0AIsTT1sMApm6jsYt3N/fQ80SOBKOIwc5WbhXrh6DqKkIsoJD4DYA7vyraUL5/MczHGjw==",
   "success": true,
   "projectFilePath": "D:\\Desktop\\4TWIN\\2 SEM\\.NET\\WebApplication1\\ConsoleApp1\\BJ.Service\\BJ.Service.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\BASSEM\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.2\\microsoft.entityframeworkcore.abstractions.6.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
