@@ -6,7 +6,7 @@ public class Bill
 
     public double Price { set; get; }
 
-    public Client Client { set; get; }
+    public virtual Client Client { set; get; }
 
     // [ForeignKey("Client")]
     public int ClientFk { set; get; }
@@ -14,5 +14,5 @@ public class Bill
     // [ForeignKey("Product")]
     public int ProductFk { set; get; }
 
-    public Product Product { get; set; }
+    public virtual Product Product { get; set; }
 }

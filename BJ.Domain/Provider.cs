@@ -18,7 +18,7 @@ public class Provider : Concept
 
     // public Find Find { set; get; }
     
-    public IList<Product> Products { get; set; }
+    public virtual IList<Product> Products { get; set; }
 
     
     public Provider()

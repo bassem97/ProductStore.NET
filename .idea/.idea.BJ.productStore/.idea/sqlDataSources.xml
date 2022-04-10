@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="8e8c9d60-9cfd-4a7e-ad80-2d69f4cf54bf" name="Microsoft SQL Server LocalDB Mapping">
+      <data-sources db="01587a09-ccf6-4fd4-be09-cc7d70d99a84" ddl="346e186b-55d5-4b26-bb6f-9e86e84a1945" />
+      <scope>
+        <node kind="database" qname="ProductStore" />
+      </scope>
+    </mapping>
+  </component>
+</project>

@@ -31,9 +31,9 @@ public class Product : Concept
     [ForeignKey("CategoryId")]
     public virtual Category category { set; get; }
     public int? CategoryId { get; set; }
-    public IList<Provider> providers { set; get; }
-    public IList<Bill> Bills { set; get; }
-    public IList<Client> Clients { set; get; }
+    public virtual IList<Provider> providers { set; get; }
+    public virtual IList<Bill> Bills { set; get; }
+    public virtual IList<Client> Clients { set; get; }
 
     public override string ToString()
     {

@@ -15,6 +15,6 @@ public class Client
 
     public string Lastname { set; get; }
 
-    public IList<Bill> Bills{ set; get; }
-    public IList<Product> Products{ set; get; }
+    public virtual IList<Bill> Bills{ set; get; }
+    public virtual IList<Product> Products{ set; get; }
 }
