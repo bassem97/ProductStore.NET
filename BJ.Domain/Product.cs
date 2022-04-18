@@ -35,6 +35,8 @@ namespace BJ.Domain
 
         public virtual IList<Facture> Factures { get; set; }
         public virtual IList<Client> Clients { get; set; }
+        
+        public PackagingType PackagingType { get; set; }
 
         public override string ToString()
         {

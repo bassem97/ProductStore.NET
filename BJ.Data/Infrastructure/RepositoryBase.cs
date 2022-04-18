@@ -77,6 +77,7 @@ namespace BJ.Data.Infrastructure
         {
             DBSet.Attach(entity);
             DBF.Context.Entry(entity).State = EntityState.Modified;
+            // DBSet.Update(entity);
         }
     }
 }

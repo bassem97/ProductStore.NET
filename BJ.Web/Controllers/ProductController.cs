@@ -13,12 +13,12 @@ namespace BJ.Web.Controllers
 {
     public class ProductController : Controller
     {
-        private readonly IProductService productService;
-        private readonly ICategoryService categoryService;
+        private readonly IProductService _productService;
+        private readonly ICategoryService _categoryService;
         public ProductController(IProductService productService, ICategoryService categoryService)
         {
-            this.productService = productService;
-            this.categoryService = categoryService;
+            this._productService = productService;
+            this._categoryService = categoryService;
         }
         // GET: ProductController
         [HttpPost]
@@ -27,38 +27,51 @@ namespace BJ.Web.Controllers
             List<Product> listProduct;
             if (!string.IsNullOrEmpty(search))
             {
-                listProduct = productService.GetMany(p => p.Label == search).ToList();
+                listProduct = _productService.GetMany(p => p.Label == search).ToList();
             }
             else
             {
-                listProduct = productService.GetMany().ToList();
+                listProduct = _productService.GetMany().ToList();
             }
             return View(listProduct);
         }
         [HttpGet]
         public ActionResult Index()
         {
-            List<Product> listProduct = productService.GetMany().ToList();
+            List<Product> listProduct = _productService.GetMany().ToList();
             
             return View(listProduct);
         }
+        public ActionResult Index2()
+        {
+            List<Product> listProduct = _productService.GetMany().ToList();
+            
+            return View(listProduct);
+        }
+        
+        
+        
         // GET: ProductController/Details/5
         public ActionResult Details(int id)
         {
-            return View(productService.GetById(id));
+            if (_productService.GetById(id) == null)
+            {
+                return NotFound();
+            }
+            return View(_productService.GetById(id));
            
         }
 
         // GET: ProductController/Create
         public ActionResult Create()
         {
-            List<Category> listCategory = categoryService.GetMany().ToList();
+            List<Category> listCategory = _categoryService.GetMany().ToList();
             ViewBag.Categories = new SelectList(listCategory, "CategoryId", "Name");
 
             return View();
         }
 
-        // POST: ProductController/Create
+        // POST: Product/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create(Product product, IFormFile ImageFile)
@@ -69,9 +82,11 @@ namespace BJ.Web.Controllers
                 Stream stream = new FileStream(path, FileMode.Create);
                 ImageFile.CopyTo(stream);
                 product.Image = ImageFile.FileName;
-                productService.Add(product);
-                productService.Commit();
+                _productService.Add(product);
+                _productService.Commit();
                 return RedirectToAction(nameof(Index));
+                // OR
+                // return RedirectToAction("index");
             }
             catch
             {
@@ -79,32 +94,53 @@ namespace BJ.Web.Controllers
             }
         }
 
-        // GET: ProductController/Edit/5
+        // GET: Product/Edit/{id}
         public ActionResult Edit(int id)
         {
-            return View(productService.GetById(id));
+            Product product = _productService.GetById(id);
+            ViewBag.Categories = new SelectList(_categoryService.GetMany().ToList(), "CategoryId", "Name");
+            return View(product);
         }
 
         // POST: ProductController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult Edit(int id, Product product,IFormFile imageFile )
         {
-            try
+            var productToUpdate = _productService.GetById(id);
+            if (imageFile != null)
             {
-                return RedirectToAction(nameof(Index));
+                var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "uploads", imageFile.FileName);
+                var stream = new FileStream(path,FileMode.Create);
+                imageFile.CopyTo(stream);
+                product.Image = imageFile.FileName;
             }
-            catch
-            {
-                return View();
-            }
+            productToUpdate.Category = product.Category;
+            productToUpdate.Clients = product.Clients;
+            productToUpdate.Description = product.Description;
+            productToUpdate.Image = product.Image;
+            productToUpdate.Label = product.Label;
+            productToUpdate.Providers = product.Providers;
+            productToUpdate.Quantity = product.Quantity;
+            productToUpdate.Price = product.Price;
+            productToUpdate.DateProd = product.DateProd;
+            productToUpdate.ProductId = product.ProductId;
+            productToUpdate.PackagingType = product.PackagingType;
+            productToUpdate.CategoryId = product.CategoryId;
+            
+           
+            _productService.Update(product);
+            _productService.Commit();
+            return View(product);
         }
 
         // GET: ProductController/Delete/5
         public ActionResult Delete(int id)
         {
-            return View(productService.GetById(id));
+            return View(_productService.GetById(id));
         }
+        
+        
 
         // POST: ProductController/Delete/5
         [HttpPost]
@@ -113,13 +149,13 @@ namespace BJ.Web.Controllers
         {
             try
             {
-                productService.Delete(productService.GetById(id));
-                productService.Commit();
+                _productService.Delete(_productService.GetById(id));
+                _productService.Commit();
                 return RedirectToAction(nameof(Index));
             }
             catch
             {
-                return View(productService.GetById(id));
+                return View(_productService.GetById(id));
             }
         }
     }
