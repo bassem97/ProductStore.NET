@@ -1,0 +1,17 @@
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Service\bin\Debug\netcoreapp3.1\BJ.Service.deps.json
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Service\bin\Debug\netcoreapp3.1\BJ.Service.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Service\bin\Debug\netcoreapp3.1\BJ.Service.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Service\bin\Debug\netcoreapp3.1\BJ.Data.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Service\bin\Debug\netcoreapp3.1\BJ.Domain.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Service\bin\Debug\netcoreapp3.1\ServicePattern.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Service\bin\Debug\netcoreapp3.1\BJ.Data.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Service\bin\Debug\netcoreapp3.1\BJ.Domain.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Service\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Service\obj\Debug\netcoreapp3.1\BJ.Service.csproj.AssemblyReference.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Service\obj\Debug\netcoreapp3.1\BJ.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Service\obj\Debug\netcoreapp3.1\BJ.Service.AssemblyInfoInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Service\obj\Debug\netcoreapp3.1\BJ.Service.AssemblyInfo.cs
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Service\obj\Debug\netcoreapp3.1\BJ.Service.csproj.CoreCompileInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Service\obj\Debug\netcoreapp3.1\BJ.Service.csproj.CopyComplete
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Service\obj\Debug\netcoreapp3.1\BJ.Service.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Service\obj\Debug\netcoreapp3.1\BJ.Service.pdb

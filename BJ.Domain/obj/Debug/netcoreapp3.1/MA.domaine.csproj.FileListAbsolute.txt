@@ -1,0 +1,20 @@
+D:\.Net\MAProductStore\MA.domaine\bin\Debug\netcoreapp3.1\MA.domaine.deps.json
+D:\.Net\MAProductStore\MA.domaine\bin\Debug\netcoreapp3.1\MA.domaine.dll
+D:\.Net\MAProductStore\MA.domaine\bin\Debug\netcoreapp3.1\MA.domaine.pdb
+D:\.Net\MAProductStore\MA.domaine\obj\Debug\netcoreapp3.1\MA.domaine.csproj.AssemblyReference.cache
+D:\.Net\MAProductStore\MA.domaine\obj\Debug\netcoreapp3.1\MA.domaine.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\MAProductStore\MA.domaine\obj\Debug\netcoreapp3.1\MA.domaine.AssemblyInfoInputs.cache
+D:\.Net\MAProductStore\MA.domaine\obj\Debug\netcoreapp3.1\MA.domaine.AssemblyInfo.cs
+D:\.Net\MAProductStore\MA.domaine\obj\Debug\netcoreapp3.1\MA.domaine.csproj.CoreCompileInputs.cache
+D:\.Net\MAProductStore\MA.domaine\obj\Debug\netcoreapp3.1\MA.domaine.dll
+D:\.Net\MAProductStore\MA.domaine\obj\Debug\netcoreapp3.1\MA.domaine.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.domaine\bin\Debug\netcoreapp3.1\MA.domaine.deps.json
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.domaine\bin\Debug\netcoreapp3.1\MA.domaine.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.domaine\bin\Debug\netcoreapp3.1\MA.domaine.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.domaine\obj\Debug\netcoreapp3.1\MA.domaine.csproj.AssemblyReference.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.domaine\obj\Debug\netcoreapp3.1\MA.domaine.GeneratedMSBuildEditorConfig.editorconfig
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.domaine\obj\Debug\netcoreapp3.1\MA.domaine.AssemblyInfoInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.domaine\obj\Debug\netcoreapp3.1\MA.domaine.AssemblyInfo.cs
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.domaine\obj\Debug\netcoreapp3.1\MA.domaine.csproj.CoreCompileInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.domaine\obj\Debug\netcoreapp3.1\MA.domaine.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.domaine\obj\Debug\netcoreapp3.1\MA.domaine.pdb

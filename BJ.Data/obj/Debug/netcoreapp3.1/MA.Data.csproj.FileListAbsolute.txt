@@ -1,0 +1,32 @@
+D:\.Net\MAProductStore\MA.Data\bin\Debug\netcoreapp3.1\MA.Data.deps.json
+D:\.Net\MAProductStore\MA.Data\bin\Debug\netcoreapp3.1\MA.Data.dll
+D:\.Net\MAProductStore\MA.Data\bin\Debug\netcoreapp3.1\MA.Data.pdb
+D:\.Net\MAProductStore\MA.Data\bin\Debug\netcoreapp3.1\MA.domaine.dll
+D:\.Net\MAProductStore\MA.Data\bin\Debug\netcoreapp3.1\MA.domaine.pdb
+D:\.Net\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.csproj.AssemblyReference.cache
+D:\.Net\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.AssemblyInfoInputs.cache
+D:\.Net\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.AssemblyInfo.cs
+D:\.Net\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.csproj.CoreCompileInputs.cache
+D:\.Net\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.csproj.CopyComplete
+D:\.Net\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.dll
+D:\.Net\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.pdb
+D:\.Net\MAProductStore\MA.Data\bin\Debug\netcoreapp3.1\MA.Data.runtimeconfig.json
+D:\.Net\MAProductStore\MA.Data\bin\Debug\netcoreapp3.1\MA.Data.runtimeconfig.dev.json
+D:\.Net\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.genruntimeconfig.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.Data\bin\Debug\netcoreapp3.1\MA.Data.deps.json
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.Data\bin\Debug\netcoreapp3.1\MA.Data.runtimeconfig.json
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.Data\bin\Debug\netcoreapp3.1\MA.Data.runtimeconfig.dev.json
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.Data\bin\Debug\netcoreapp3.1\MA.Data.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.Data\bin\Debug\netcoreapp3.1\MA.Data.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.Data\bin\Debug\netcoreapp3.1\MA.domaine.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.Data\bin\Debug\netcoreapp3.1\MA.domaine.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.csproj.AssemblyReference.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.AssemblyInfoInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.AssemblyInfo.cs
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.csproj.CoreCompileInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.csproj.CopyComplete
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MA.Data\obj\Debug\netcoreapp3.1\MA.Data.genruntimeconfig.cache

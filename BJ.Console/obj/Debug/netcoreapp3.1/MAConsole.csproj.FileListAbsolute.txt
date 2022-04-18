@@ -1,0 +1,154 @@
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MAConsole.exe
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MAConsole.deps.json
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MAConsole.runtimeconfig.json
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MAConsole.runtimeconfig.dev.json
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MAConsole.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MAConsole.pdb
+D:\.Net\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.csproj.AssemblyReference.cache
+D:\.Net\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.AssemblyInfoInputs.cache
+D:\.Net\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.AssemblyInfo.cs
+D:\.Net\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.csproj.CoreCompileInputs.cache
+D:\.Net\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.dll
+D:\.Net\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.pdb
+D:\.Net\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.genruntimeconfig.cache
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MA.domaine.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MA.domaine.pdb
+D:\.Net\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.csproj.CopyComplete
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\TB.Service.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\TB.Service.pdb
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MA.Service.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MA.Service.pdb
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MA.Data.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MA.Data.pdb
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\ServicePattern.dll
+D:\.Net\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MAConsole.exe
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MAConsole.deps.json
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MAConsole.runtimeconfig.json
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MAConsole.runtimeconfig.dev.json
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MAConsole.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MAConsole.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MA.Data.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MA.domaine.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MA.Service.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\ServicePattern.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\TB.Service.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MA.Data.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MA.domaine.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\TB.Service.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\MA.Service.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.csproj.AssemblyReference.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.AssemblyInfoInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.AssemblyInfo.cs
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.csproj.CoreCompileInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.csproj.CopyComplete
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\MAConsole\obj\Debug\netcoreapp3.1\MAConsole.genruntimeconfig.cache

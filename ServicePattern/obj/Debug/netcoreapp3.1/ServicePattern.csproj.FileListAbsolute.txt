@@ -1,0 +1,45 @@
+D:\.Net\MAProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.deps.json
+D:\.Net\MAProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.dll
+D:\.Net\MAProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+D:\.Net\MAProductStore\ServicePattern\bin\Debug\netcoreapp3.1\MA.Data.dll
+D:\.Net\MAProductStore\ServicePattern\bin\Debug\netcoreapp3.1\MA.domaine.dll
+D:\.Net\MAProductStore\ServicePattern\bin\Debug\netcoreapp3.1\MA.Data.pdb
+D:\.Net\MAProductStore\ServicePattern\bin\Debug\netcoreapp3.1\MA.domaine.pdb
+D:\.Net\MAProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.AssemblyReference.cache
+D:\.Net\MAProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\MAProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfoInputs.cache
+D:\.Net\MAProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfo.cs
+D:\.Net\MAProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CoreCompileInputs.cache
+D:\.Net\MAProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CopyComplete
+D:\.Net\MAProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.dll
+D:\.Net\MAProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.deps.json
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\ServicePattern\bin\Debug\netcoreapp3.1\MA.Data.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\ServicePattern\bin\Debug\netcoreapp3.1\MA.domaine.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\ServicePattern\bin\Debug\netcoreapp3.1\MA.Data.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\ServicePattern\bin\Debug\netcoreapp3.1\MA.domaine.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.AssemblyReference.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfoInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfo.cs
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CoreCompileInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CopyComplete
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.deps.json
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\ServicePattern\bin\Debug\netcoreapp3.1\BJ.Data.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\ServicePattern\bin\Debug\netcoreapp3.1\BJ.Domain.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\ServicePattern\bin\Debug\netcoreapp3.1\BJ.Data.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\ServicePattern\bin\Debug\netcoreapp3.1\BJ.Domain.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.AssemblyReference.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfoInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfo.cs
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CoreCompileInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CopyComplete
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.pdb

@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\MA.Data\\MA.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\MA.Data\\MA.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\MA.Data\\MA.Data.csproj",
+        "projectName": "MA.Data",
+        "projectPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\MA.Data\\MA.Data.csproj",
+        "packagesPath": "C:\\Users\\BASSEM\\.nuget\\packages\\",
+        "outputPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\MA.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BASSEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\MA.domaine\\MA.domaine.csproj": {
+                "projectPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\MA.domaine\\MA.domaine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\MA.domaine\\MA.domaine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\MA.domaine\\MA.domaine.csproj",
+        "projectName": "MA.domaine",
+        "projectPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\MA.domaine\\MA.domaine.csproj",
+        "packagesPath": "C:\\Users\\BASSEM\\.nuget\\packages\\",
+        "outputPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\MA.domaine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BASSEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

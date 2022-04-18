@@ -1,0 +1,10 @@
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Domain\bin\Debug\netcoreapp3.1\BJ.Domain.deps.json
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Domain\bin\Debug\netcoreapp3.1\BJ.Domain.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Domain\bin\Debug\netcoreapp3.1\BJ.Domain.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Domain\obj\Debug\netcoreapp3.1\BJ.Domain.csproj.AssemblyReference.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Domain\obj\Debug\netcoreapp3.1\BJ.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Domain\obj\Debug\netcoreapp3.1\BJ.Domain.AssemblyInfoInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Domain\obj\Debug\netcoreapp3.1\BJ.Domain.AssemblyInfo.cs
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Domain\obj\Debug\netcoreapp3.1\BJ.Domain.csproj.CoreCompileInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Domain\obj\Debug\netcoreapp3.1\BJ.Domain.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\BJ.Domain\obj\Debug\netcoreapp3.1\BJ.Domain.pdb

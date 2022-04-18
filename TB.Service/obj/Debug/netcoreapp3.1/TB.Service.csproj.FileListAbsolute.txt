@@ -1,0 +1,57 @@
+D:\.Net\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\TB.Service.deps.json
+D:\.Net\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\TB.Service.dll
+D:\.Net\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\TB.Service.pdb
+D:\.Net\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\MA.domaine.dll
+D:\.Net\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\MA.domaine.pdb
+D:\.Net\MAProductStore\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.csproj.AssemblyReference.cache
+D:\.Net\MAProductStore\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\MAProductStore\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.AssemblyInfoInputs.cache
+D:\.Net\MAProductStore\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.AssemblyInfo.cs
+D:\.Net\MAProductStore\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.csproj.CoreCompileInputs.cache
+D:\.Net\MAProductStore\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.csproj.CopyComplete
+D:\.Net\MAProductStore\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.dll
+D:\.Net\MAProductStore\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.pdb
+D:\.Net\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\MA.Service.dll
+D:\.Net\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\MA.Service.pdb
+D:\.Net\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\MA.Data.dll
+D:\.Net\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\ServicePattern.dll
+D:\.Net\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\MA.Data.pdb
+D:\.Net\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\TB.Service.deps.json
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\TB.Service.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\TB.Service.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\MA.Data.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\MA.domaine.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\MA.Service.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\ServicePattern.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\MA.domaine.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\MA.Service.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\MA.Data.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.csproj.AssemblyReference.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.AssemblyInfoInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.AssemblyInfo.cs
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.csproj.CoreCompileInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.csproj.CopyComplete
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\MAProductStore\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\bin\Debug\netcoreapp3.1\TB.Service.deps.json
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\bin\Debug\netcoreapp3.1\TB.Service.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\bin\Debug\netcoreapp3.1\TB.Service.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\bin\Debug\netcoreapp3.1\BJ.Data.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\bin\Debug\netcoreapp3.1\BJ.Domain.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\bin\Debug\netcoreapp3.1\BJ.Service.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\bin\Debug\netcoreapp3.1\ServicePattern.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\bin\Debug\netcoreapp3.1\BJ.Domain.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\bin\Debug\netcoreapp3.1\BJ.Service.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\bin\Debug\netcoreapp3.1\BJ.Data.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.csproj.AssemblyReference.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.AssemblyInfoInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.AssemblyInfo.cs
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.csproj.CoreCompileInputs.cache
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.csproj.CopyComplete
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.dll
+D:\9raya\ESPRIT\4TWIN\2 SEM\.NET\ProductStore.NET\TB.Service\obj\Debug\netcoreapp3.1\TB.Service.pdb

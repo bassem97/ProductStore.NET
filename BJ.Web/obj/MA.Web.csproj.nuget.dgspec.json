@@ -1,0 +1,338 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\MA.Web\\MA.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.Data\\BJ.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.Data\\BJ.Data.csproj",
+        "projectName": "BJ.Data",
+        "projectPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.Data\\BJ.Data.csproj",
+        "packagesPath": "C:\\Users\\BASSEM\\.nuget\\packages\\",
+        "outputPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BASSEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.domaine\\BJ.domaine.csproj": {
+                "projectPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.domaine\\BJ.domaine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.domaine\\BJ.domaine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.domaine\\BJ.domaine.csproj",
+        "projectName": "BJ.domaine",
+        "projectPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.domaine\\BJ.domaine.csproj",
+        "packagesPath": "C:\\Users\\BASSEM\\.nuget\\packages\\",
+        "outputPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.domaine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BASSEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.Service\\BJ.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.Service\\BJ.Service.csproj",
+        "projectName": "BJ.Service",
+        "projectPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.Service\\BJ.Service.csproj",
+        "packagesPath": "C:\\Users\\BASSEM\\.nuget\\packages\\",
+        "outputPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BASSEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.Data\\BJ.Data.csproj": {
+                "projectPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.Data\\BJ.Data.csproj"
+              },
+              "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.domaine\\BJ.domaine.csproj": {
+                "projectPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.domaine\\BJ.domaine.csproj"
+              },
+              "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\ServicePattern\\ServicePattern.csproj": {
+                "projectPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\ServicePattern\\ServicePattern.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\MA.Web\\MA.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\MA.Web\\MA.Web.csproj",
+        "projectName": "MA.Web",
+        "projectPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\MA.Web\\MA.Web.csproj",
+        "packagesPath": "C:\\Users\\BASSEM\\.nuget\\packages\\",
+        "outputPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\MA.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BASSEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.domaine\\BJ.domaine.csproj": {
+                "projectPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.domaine\\BJ.domaine.csproj"
+              },
+              "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.Service\\BJ.Service.csproj": {
+                "projectPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.Service\\BJ.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\ServicePattern\\ServicePattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\ServicePattern\\ServicePattern.csproj",
+        "projectName": "ServicePattern",
+        "projectPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\ServicePattern\\ServicePattern.csproj",
+        "packagesPath": "C:\\Users\\BASSEM\\.nuget\\packages\\",
+        "outputPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\ServicePattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BASSEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.Data\\BJ.Data.csproj": {
+                "projectPath": "D:\\9raya\\ESPRIT\\4TWIN\\2 SEM\\.NET\\ProductStore.NET\\BJ.Data\\BJ.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
